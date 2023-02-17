@@ -1,0 +1,12 @@
+C Z 13
+B Y 15
+A X 9
+D K 78
+E K 82
+F K 78
+D K 78
+E B 42
+F O 23
+G D 62
+Y P 41
+J R 76
