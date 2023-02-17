@@ -1,6 +1,6 @@
 SCREENSHOTS OF THE RUNNING APPLICATION CAN BE FOUND IN THE FUNCTIONALITY SCREENSHOTS FOLDER
 
---------
+
 This is an example of a Binary Search Tree, that I did for a class assignment.
 
 Using a generated dataset of names and ages, three trees are created (sorted by first name, last name, age)
@@ -11,7 +11,8 @@ You can traverse the trees using different algorithms, check the balance of the 
 people.
 
 The dataset is generated based on a list of names, it grabs one of the first names on the list and combines it with one of the last names on the last.
-------
+
+
 
 HOW TO RUN:
 
